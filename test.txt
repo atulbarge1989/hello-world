@@ -1,3 +1,2 @@
-i am shubham sontakke 
-and i am preparing for devops engineer 
-and this is my tomcat integration with jenkins for build code
+i am preparing for devops engineer 
+this is my tomcat integration with jenkins for build code
