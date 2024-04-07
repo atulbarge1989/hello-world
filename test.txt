@@ -1,2 +1,1 @@
-i am preparing for devops engineer 
-this is my tomcat integration with jenkins for build code
+hello i am ssh 
